@@ -14,6 +14,7 @@
 
 * 1 loom https://github.com/lbxloom/PediyCrawler 可以爬取某雪论坛的精华帖等信息。
 * 2 KevinsBobo https://github.com/KevinsBobo/curl_multi 结合libuv/libcurl，发送异步http数据包。
+* 3 cqsflj https://github.com/cqsflj/-/tree/master/Spider 爬取某雪论坛的个人信息及精华帖等信息
 
 ### 二次开发
 
