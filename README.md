@@ -20,5 +20,5 @@
 * 1 KevinsBobo https://github.com/KevinsBobo/wireshark-modify 修改wireshark - 为tshark增加保存http图片、音乐功能
 
 
-### 开源项目
-* 1 sundalin0512 https://github.com/sundalin0512/MFCReceiveMail 一个邮件查收系统，利用库了sqlite和jmail，使用了smtp与pop3协议。
+### 其他项目
+* 1 sundalin0512 https://github.com/sundalin0512/MFCReceiveMail 一个邮件查收系统，利用了库sqlite和jmail，使用了smtp与pop3协议。
