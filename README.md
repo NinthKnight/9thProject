@@ -13,4 +13,8 @@
 > 使用libcurl等库做的一些小爬虫
 
 * 1 loom https://github.com/lbxloom/PediyCrawler 可以爬取某雪论坛的精华帖等信息。
-* 2 Kevins https://github.com/NinthKnight/libuv_curl 结合libuv/libcurl，发送异步http数据包。
+* 2 KevinsBobo https://github.com/KevinsBobo/curl_multi 结合libuv/libcurl，发送异步http数据包。
+
+### 二次开发
+
+* 1 KevinsBobo https://github.com/KevinsBobo/wireshark-modify 修改wireshark - 为tshark增加保存http图片、音乐功能
