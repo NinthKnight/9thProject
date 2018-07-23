@@ -13,4 +13,4 @@
 > 使用libcurl等库做的一些小爬虫
 
 * 1 loom https://github.com/lbxloom/PediyCrawler 可以爬取某雪论坛的精华帖等信息。
-* 
+* 2 Kevins https://github.com/NinthKnight/libuv_curl 结合libuv/libcurl，发送异步http数据包。
