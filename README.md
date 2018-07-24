@@ -7,6 +7,7 @@
 * 1 loom https://github.com/lbxloom/AesEncDec.git
 * 2 JokerRound https://github.com/JokerRound/Cryptology-algorithm
 * 3 o576212113 https://github.com/o576212113/AES
+* 4 kesosam https://github.com/kesosam/Ref1ectRepos/tree/master/Encode 支持base64 md5 aes加解密工具
 
 
 ### 爬虫
@@ -15,6 +16,7 @@
 * 1 loom https://github.com/lbxloom/PediyCrawler 可以爬取某雪论坛的精华帖等信息。
 * 2 KevinsBobo https://github.com/KevinsBobo/curl_multi 结合libuv/libcurl，发送异步http数据包。
 * 3 cqsflj https://github.com/cqsflj/-/tree/master/Spider 爬取某雪论坛的个人信息及精华帖等信息
+* 4 kesosam https://github.com/kesosam/Ref1ectRepos/tree/master/TumblrLogin 模拟登陆Tumblr的工具
 
 ### 二次开发
 
