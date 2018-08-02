@@ -22,6 +22,9 @@
 
 * 1 KevinsBobo https://github.com/KevinsBobo/wireshark-modify 修改wireshark - 为tshark增加保存http图片、音乐功能
 
+### 远程控制
+* 1 cqsflj https://github.com/cqsflj/ServerManager 利用IOCP实现的一个远程控制程序示例
+
 
 ### 其他项目
 * 1 sundalin0512 https://github.com/sundalin0512/MFCReceiveMail 一个邮件查收系统，利用了库sqlite和jmail，使用了smtp与pop3协议。
