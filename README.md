@@ -28,3 +28,5 @@
 
 ### 其他项目
 * 1 sundalin0512 https://github.com/sundalin0512/MFCReceiveMail 一个邮件查收系统，利用了库sqlite和jmail，使用了smtp与pop3协议。
+* 2 ninthKnight
+https://github.com/NinthKnight/MPlayer.git 一个使用ffmpeg播放在线音乐的小软件，使用qt编写。
