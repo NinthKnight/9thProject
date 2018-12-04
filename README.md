@@ -25,6 +25,8 @@
 ### 远程控制
 * 1 cqsflj https://github.com/cqsflj/ServerManager 利用IOCP实现的一个远程控制程序示例
 
+### 验证码识别
+* 1 loom https://github.com/lbxloom/Caffe_21cn 利用caffe做的某邮箱图片验证识别过程，识别率99%
 
 ### 其他项目
 * 1 sundalin0512 https://github.com/sundalin0512/MFCReceiveMail 一个邮件查收系统，利用了库sqlite和jmail，使用了smtp与pop3协议。
