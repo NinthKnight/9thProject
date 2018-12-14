@@ -28,6 +28,9 @@
 ### 验证码识别
 * 1 loom https://github.com/lbxloom/Caffe_21cn 利用caffe做的某邮箱图片验证识别过程，识别率99%
 
+### 小游戏
+* 1 hasikill https://github.com/hasikill/EasyX_TankBattle 使用easyx写的坦克大战小游戏。
+
 ### 其他项目
 * 1 sundalin0512 https://github.com/sundalin0512/MFCReceiveMail 一个邮件查收系统，利用了库sqlite和jmail，使用了smtp与pop3协议。
 * 2 ninthKnight
