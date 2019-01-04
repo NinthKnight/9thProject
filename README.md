@@ -27,6 +27,7 @@
 
 ### 验证码识别
 * 1 loom https://github.com/lbxloom/Caffe_21cn 利用caffe做的某邮箱图片验证识别过程，识别率99%
+* 2 J1016 https://github.com/J1016/MonyBuilder 使用opencv和lua做的某盾滑动验证
 
 ### 小游戏
 * 1 hasikill https://github.com/hasikill/EasyX_TankBattle 使用easyx写的坦克大战小游戏。
