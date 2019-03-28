@@ -23,8 +23,7 @@
 * 1 KevinsBobo https://github.com/KevinsBobo/wireshark-modify 修改wireshark - 为tshark增加保存http图片、音乐功能
 
 ### 远程控制
-* 1 cqsflj https://github.com/cqsflj/ServerManager 利用IOCP实现的一个远程控制程序示例
-* 2 hasikill https://github.com/hasikill/CrossPlatformRemoteControl 使用boost.Asio实现一个控制端跨平台的远程控制项目
+* 1 hasikill https://github.com/hasikill/CrossPlatformRemoteControl 使用boost.Asio实现一个控制端跨平台的远程控制项目
 
 ### 验证码识别
 * 1 loom https://github.com/lbxloom/Caffe_21cn 利用caffe做的某邮箱图片验证识别过程，识别率99%
